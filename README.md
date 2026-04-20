@@ -2,15 +2,14 @@
 
 ## 📌 Overview
 
-This project is a real-world Power BI dashboard analyzing taxi ride data to extract business insights such as revenue trends, booking behavior, cancellations, and ratings.
+This project analyzes taxi ride data using Power BI to extract meaningful business insights such as booking trends, revenue distribution, and cancellation behavior.
 
 ## 🎯 Key Features
 
 * Interactive dashboards with filters and slicers
 * Vehicle-wise performance analysis
-* Revenue and payment method insights
+* Revenue and payment insights
 * Cancellation trends and reasons
-* Customer and driver rating analysis
 
 ## 📊 Dashboards Included
 
@@ -18,7 +17,42 @@ This project is a real-world Power BI dashboard analyzing taxi ride data to extr
 * Vehicle Type Analysis
 * Revenue Analysis
 * Cancellation Analysis
-* Ratings Dashboard
+
+---
+
+## 🔹 1. Overall Dashboard
+
+* Total bookings overview
+* Monthly booking trends
+* Booking status distribution
+* Date-based filtering
+
+---
+
+## 🔹 2. Vehicle Type Analysis
+
+* Booking value by vehicle type
+* Distance travelled comparison
+* Performance across different vehicle categories
+
+---
+
+## 🔹 3. Revenue Analysis
+
+* Payment method distribution (UPI dominant)
+* Revenue trends over time
+* Distance vs revenue insights
+
+---
+
+## 🔹 4. Cancellation Analysis
+
+* Total cancellations and cancellation percentage (~25%)
+* Customer vs driver cancellation breakdown
+* Key reasons: AC issues, change of plans, driver-related factors
+* Identifies operational inefficiencies and improvement areas
+
+---
 
 ## 📸 Dashboard Preview
 
@@ -38,17 +72,20 @@ This project is a real-world Power BI dashboard analyzing taxi ride data to extr
 
 ![Cancellation](screenshots/cancellation_analysis.png)
 
-### Ratings Dashboard
-
-![Ratings](screenshots/ratings_dashboard.png)
+---
 
 ## 🛠️ Tools Used
 
 * Power BI
 * DAX
-* Data Cleaning
+* Data Cleaning & Transformation
+
+---
 
 ## 📌 Status
 
-✔ Completed till dashboard creation
-🔄 Further feature engineering and UI improvements in progress
+🔄 Work in Progress (Phase 2 Complete)
+
+---
+
+📊 Key Insight: Cancellation rate observed is ~25%, indicating potential service and operational improvements.
