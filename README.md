@@ -79,6 +79,9 @@ This project analyzes taxi ride data using Power BI to extract meaningful busine
 
 ![Cancellation](screenshots/cancellation_analysis.png)
 
+### Ratings Dashboard
+![Ratings](screenshots/ratings_dashboard.png)
+
 ---
 
 ## 🛠️ Tools Used
@@ -91,7 +94,7 @@ This project analyzes taxi ride data using Power BI to extract meaningful busine
 
 ## 📌 Status
 
-🔄 Work in Progress (Phase 2 Complete)
+🔄 Work in Progress (Phase 3 Complete)
 
 ---
 
