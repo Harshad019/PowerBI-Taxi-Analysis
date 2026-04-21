@@ -17,6 +17,7 @@ This project analyzes taxi ride data using Power BI to extract meaningful busine
 * Vehicle Type Analysis
 * Revenue Analysis
 * Cancellation Analysis
+* Rating Analysis
 
 ---
 
