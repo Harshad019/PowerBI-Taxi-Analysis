@@ -53,7 +53,13 @@ This project analyzes taxi ride data using Power BI to extract meaningful busine
 * Identifies operational inefficiencies and improvement areas
 
 ---
+## 🔹 5. Ratings Analysis
 
+* Comparison of **customer vs driver ratings**
+* Vehicle-wise rating trends (Auto & Go Mini perform well)
+* Helps evaluate service quality and driver performance
+* Identifies areas for improvement in customer satisfaction
+---
 ## 📸 Dashboard Preview
 
 ### Overall Dashboard
